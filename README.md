@@ -37,6 +37,8 @@ After obtaining a new data frame that displays Total Rides, Total Drivers, Total
 
 ![fares](https://user-images.githubusercontent.com/20058842/177619751-b85a5d8e-c72c-4389-a42b-21a360a1d497.png)
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/20058842/177637612-55d26e44-895d-4e75-ba3f-d60f3894a53d.png)
+
 - Rural rides are on average more expensive than Suburban and Urban rides with an average cost of $34.62. The average fare for each driver will also be the highest among each city type with a value of $55.49 per driver. The number of total rides and drivers will always be lower in rural cities. This benefits the few drivers in rural areas since the average fare will be very high.
 
 - Suburban rides have an average cost of $30.97. The average fare for each driver has a value of $39.50 per driver. The amount of total rides and drivers will be in between rural and urban areas.
